@@ -11,7 +11,7 @@ Nesse app simples o objetivo é entender um pouco sobre a criação de layouts e
 
 ## Dicee
 
-![dicee](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/dicee.mp4)
+![dicee](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/dicee.gif)
 
 Neste aprendemos a usar o onPressed para deixar o app com mais interação.
 
