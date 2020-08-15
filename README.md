@@ -9,7 +9,6 @@ https://www.udemy.com/course/flutter-bootcamp-with-dart/
 
 Nesse app simples o objetivo é entender um pouco sobre a criação de layouts em Flutter.
 
-
 ## Dicee
 
 ![dicee](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/dicee.gif)
@@ -17,3 +16,11 @@ Nesse app simples o objetivo é entender um pouco sobre a criação de layouts e
 Neste app o onPressed juntamente com as imagens ajuda a criar uma interação bem legal.
 
 Ao apertar em um dos dados as duas imagens são alteradas randomicamente.
+
+## Magic 8 Ball
+
+![8ball](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/8ball.gif)
+
+A famosa bola 8 mágica. 
+
+Usando os mesmos princípios do app anterior, neste temos uma interação ligeiramente maior.
