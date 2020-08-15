@@ -1,5 +1,6 @@
-# Apps from Flutter Bootcamp
-Os apps desenvolvido junto com o curso Flutter Bootcamp:
+# Flutter Bootcamp Apps
+Estes são os apps desenvolvidos junto com o curso Flutter Bootcamp:
+
 https://www.udemy.com/course/flutter-bootcamp-with-dart/
 
 ## Cartão de Desenvolvedor
@@ -13,6 +14,6 @@ Nesse app simples o objetivo é entender um pouco sobre a criação de layouts e
 
 ![dicee](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/dicee.gif)
 
-Neste aprendemos a usar o onPressed para deixar o app com mais interação.
+Neste app o onPressed juntamente com as imagens ajuda a criar uma interação bem legal.
 
 Ao apertar em um dos dados as duas imagens são alteradas randomicamente.
