@@ -30,4 +30,5 @@ Usando os mesmos princípios do app anterior, neste temos uma interação ligeir
 ![xylophone](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/xylophone.gif)
 
 O Xilofone é um nome genérico para diversos instrumentos musicais que são laminas de madeira coloridas.
+
 Este app simula de forma bem simples esse instrumento, onde cada cor toca um nota.
