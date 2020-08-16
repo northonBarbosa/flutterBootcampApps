@@ -38,4 +38,5 @@ Este app simula de forma bem simples esse instrumento, onde cada cor toca um not
 ![quizzler](https://github.com/northonBarbosa/flutterBootcampApps/blob/master/quizzler.gif)
 
 Verdadeiro ou falso sempre foi um tremendo passatempo, em um app então nem se fala.
+
 Neste app o jogo verdadeiro ou falso se mostra excelente para aprender novos assuntos como caixas de dialogo e UI ligeiramente mais elaboradas.
