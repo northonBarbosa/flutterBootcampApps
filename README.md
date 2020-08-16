@@ -32,3 +32,10 @@ Usando os mesmos princípios do app anterior, neste temos uma interação ligeir
 O Xilofone é um nome genérico para diversos instrumentos musicais que são laminas de madeira coloridas.
 
 Este app simula de forma bem simples esse instrumento, onde cada cor toca um nota.
+
+## Verdadeiro ou Falso
+
+![quizzler]()
+
+Verdadeiro ou falso sempre foi um tremendo passatempo, em um app então nem se fala.
+Neste app o jogo verdadeiro ou falso se mostra excelente para aprender novos assuntos como caixas de dialogo e UI ligeiramente mais elaboradas.
